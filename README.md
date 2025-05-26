@@ -5,13 +5,13 @@
 ## 环境配置：
 
 - Github Personal Account
-- Visual Studio 2019 or Visual Studio Code
+- Visual Studio or Visual Studio Code
 - Azure CLI Client Tool
 
 ## Azure资源预配
 
 Azure Resource：
--	2 * App Service
+-	2 * App Service or Azure Kubernetes Service
     - Azure App Service Windows
     - Azure App Service for Container
 -	1 Container Registry
@@ -21,7 +21,7 @@ Azure Resource：
 ## 项目说明
 Weather API是一个利用.NET Core撰写的天气API接口
 此项目仅有一个API路由
-EX: `contoso.azurewebsites.net/WeatherForecast`
+`contoso.azurewebsites.net/WeatherForecast`
 
 Clone至本地后可利用Visual Studio 建置此天气API项目
 
