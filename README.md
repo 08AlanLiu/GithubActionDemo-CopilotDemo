@@ -5,13 +5,13 @@
 ## 环境配置：
 
 - Github Personal Account
-- Visual Studio 2019 or Visual Studio Code
+- Visual Studio or Visual Studio Code
 - Azure CLI Client Tool
 
 ## Azure资源预配
 
 Azure Resource：
--	2 * App Service
+-	2 * App Service or Azure Kubernetes Service
     - Azure App Service Windows
     - Azure App Service for Container
 -	1 Container Registry
