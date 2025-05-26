@@ -21,7 +21,7 @@ Azure Resource：
 ## 项目说明
 Weather API是一个利用.NET Core撰写的天气API接口
 此项目仅有一个API路由
-EX: `contoso.azurewebsites.net/WeatherForecast`
+`contoso.azurewebsites.net/WeatherForecast`
 
 Clone至本地后可利用Visual Studio 建置此天气API项目
 
