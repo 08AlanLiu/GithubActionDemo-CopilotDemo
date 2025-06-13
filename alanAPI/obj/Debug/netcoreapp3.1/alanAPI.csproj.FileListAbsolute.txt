@@ -43,6 +43,8 @@ C:/Users/alan.liu/source/repos/AppServiceDemo/alanAPI/obj/Debug/netcoreapp3.1/al
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/bin/Debug/netcoreapp3.1/alanAPI.runtimeconfig.dev.json
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/bin/Debug/netcoreapp3.1/alanAPI.dll
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/bin/Debug/netcoreapp3.1/alanAPI.pdb
+/home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.csproj.AssemblyReference.cache
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.GeneratedMSBuildEditorConfig.editorconfig
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.AssemblyInfoInputs.cache
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.AssemblyInfo.cs
@@ -56,9 +58,7 @@ C:/Users/alan.liu/source/repos/AppServiceDemo/alanAPI/obj/Debug/netcoreapp3.1/al
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.alanAPI.props
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.alanAPI.props
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.alanAPI.props
+/home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.csproj.CopyComplete
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.dll
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.pdb
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.genruntimeconfig.cache
-/home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
-/home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.csproj.AssemblyReference.cache
-/home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.csproj.CopyComplete
