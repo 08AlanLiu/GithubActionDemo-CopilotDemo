@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("alanAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a715b25c46e78da2678835fa84395e2863db83ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47637aebb210f1f38f6a6e7d6a5e3d6ad66d5f4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("alanAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("alanAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

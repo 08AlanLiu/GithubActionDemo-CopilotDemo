@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using alanAPI.Models;
+using alanAPI.Services;
 
 namespace alanAPI
 {
@@ -26,6 +28,12 @@ namespace alanAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            
+            // Configure OpenWeather settings
+            services.Configure<OpenWeatherConfig>(Configuration.GetSection("OpenWeather"));
+            
+            // Register HttpClient for OpenWeather service
+            services.AddHttpClient<IOpenWeatherService, OpenWeatherService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

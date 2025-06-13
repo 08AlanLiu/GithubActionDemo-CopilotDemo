@@ -59,3 +59,6 @@ C:/Users/alan.liu/source/repos/AppServiceDemo/alanAPI/obj/Debug/netcoreapp3.1/al
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.dll
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.pdb
 /home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.genruntimeconfig.cache
+/home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.csproj.AssemblyReference.cache
+/home/runner/work/GithubActionDemo-CopilotDemo/GithubActionDemo-CopilotDemo/alanAPI/obj/Debug/netcoreapp3.1/alanAPI.csproj.CopyComplete
